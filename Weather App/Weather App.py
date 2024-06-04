@@ -28,7 +28,7 @@ root = tk.Tk()
 root.title("Weather App")
 root.geometry("400x300")
 
-bg_image = "C:\\Users\\Aden\\OneDrive\\Desktop\\Personal coding\\Internship - info\\Weather App\\tom-barrett-hgGplX3PFBg-unsplash(1).jpg"
+bg_image = "Weather App/tom-barrett-hgGplX3PFBg-unsplash(1).jpg"
 bg_image = Image.open(bg_image)
 bg_image = ImageTk.PhotoImage(bg_image)
 

@@ -41,7 +41,7 @@ root = tk.Tk()
 root.title('Password Generator')
 root.geometry('500x600')
 
-bg_image = Image.open("C:\\Users\\Aden\\OneDrive\\Desktop\\Personal coding\\Internship - info\\Random password generator.py\\Make-your-password-strong-1024x576.jpg")
+bg_image = Image.open("Random password generator.py/Make-your-password-strong-1024x576.jpg")
 bg_image = ImageTk.PhotoImage(bg_image)
 
 bg_label = tk.Label(root, image=bg_image)

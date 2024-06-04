@@ -1,0 +1,5 @@
+Weight: 65.0 kg
+Height: 175.0 cm
+BMI: 21.22
+Category: Healthy weight
+

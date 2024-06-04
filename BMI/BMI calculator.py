@@ -65,7 +65,7 @@ root = tk.Tk()
 root.geometry("475x475+50+50")
 root.title("BMI Calculator")
 
-image = Image.open("C:\\Users\\Aden\\OneDrive\\Desktop\\Personal coding\\Internship - info\\BMI\\adult-body-mass-index-guide-alt-1440x810.jpg")
+image = Image.open("BMI/adult-body-mass-index-guide-alt-1440x810.jpg")
 bg_image = ImageTk.PhotoImage(image)
 limg = tk.Label(root, image=bg_image)
 limg.place(x=0, y=0, relwidth=1, relheight=1)
