@@ -3,3 +3,18 @@ Height: 175.0 cm
 BMI: 21.22
 Category: Healthy weight
 
+Weight: 65.0 kg
+Height: 170.0 cm
+BMI: 22.49
+Category: Healthy weight
+
+Weight: 65.0 kg
+Height: 170.0 cm
+BMI: 22.49
+Category: Healthy weight
+
+Weight: 68.0 kg
+Height: 185.0 cm
+BMI: 19.87
+Category: Healthy weight
+
